@@ -18,4 +18,4 @@ Before you begin, ensure you have the following installed:
 ### Installation
 1. **Clone the Repository**
    Clone the project to your local machine using:
-   - bash git clone https://github.com/yourusername/SimpleChatApp.git
+   - bash git clone https://github.com/DanielErnestoThompson/SimpleChatApp
